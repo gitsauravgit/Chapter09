@@ -2,3 +2,6 @@ Hello!
 
 This is my first code!
 this is the conf respective to vms size.
+
+
+Changing the VM OS to Ubuntu.
