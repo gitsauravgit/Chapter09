@@ -5,3 +5,6 @@ this is the conf respective to vms size.
 
 
 Changing the VM OS to Ubuntu.
+
+
+Addonng new features!
